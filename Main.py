@@ -23,4 +23,4 @@ cursor.close()
 cnx.close()
 
 
-cnx.close()
+# This is only a comment
