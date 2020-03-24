@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="AWS RDS" uuid="c837a68f-c626-4dce-b576-57ebe85aca42">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>AWS RDS</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://database-rds.cmti9miz9esc.us-east-1.rds.amazonaws.com:3306/employees</jdbc-url>
+    </data-source>
+  </component>
+</project>
